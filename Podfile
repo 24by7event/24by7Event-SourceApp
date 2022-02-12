@@ -10,6 +10,3 @@ target '24by7Event Live-SourceApp' do
   # Pods for 24by7Event Live-SourceApp
 
 end
-
-
-com.Example.24by7Event
